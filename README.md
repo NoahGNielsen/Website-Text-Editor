@@ -9,13 +9,14 @@
 6. In the input field "Replace" insert your website domain
 7. Then choose "Replace all"
 8. Pres "ctrl + S"
->You may now close the Notepad and Windows Explorer
->Note: Do NOT touch any other files or edit parts of manifest.json that is not being told
+You may now close the Notepad and Windows Explorer
+> [!WARNING]
+> Do NOT touch any other files
 
 
->Open your browser
+Open your browser
 
->Google Chrome (Other browsers may be a little bit difrent but shoud be generally the same):
+Google Chrome (Other browsers may be a little bit difrent but shoud be generally the same):
 1. Click on the three dots in the top right corner, Hold your mouse over more tools, Choose Extensions.
 2. Enable "Developer mode" in the top right corner.
 3. Then choose in the top left cornor "Load Unpacked".
